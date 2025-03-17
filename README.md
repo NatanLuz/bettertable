@@ -3,6 +3,5 @@ Este repositório contém a versão 2 de um projeto de cadastro de funcionários
 
 
 💬 Contato
-GitHub: @archivesysl
 E-mail: natandaluz01@gmail.com
 LinkedIn: @natandaluz
