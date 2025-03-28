@@ -2,7 +2,7 @@
 
 Este repositório contém a versão 2 de um sistema de cadastro de funcionários, criado inicialmente para praticar habilidades de programação. Nesta versão, o sistema foi aprimorado, com a adição de novos recursos, como a exportação para Excel, edição e exclusão de dados.
 
-## 🔥 Introdução
+##  Introdução
 
 Este sistema foi desenvolvido para gerenciar o cadastro de funcionários, incluindo informações como nome, cargo, folga fixa, data de entrada e salário. Ele permite salvar, editar, excluir e exportar os dados para um arquivo Excel.
 
@@ -13,7 +13,7 @@ Funcionalidades:
 - Exportação dos dados para um arquivo Excel.
 - Interface gráfica usando a biblioteca `Tkinter`.
 
-## ⚙️ Pré-requisitos
+##  Pré-requisitos
 
 Antes de começar, certifique-se de ter os seguintes pré-requisitos:
 
