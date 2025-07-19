@@ -1,4 +1,4 @@
-# 📋 Cadastro de Funcionários - Versão 2
+# Cadastro de Funcionários - Versão 2
 
 Este repositório contém a versão 2 de um sistema de cadastro de funcionários, criado inicialmente para praticar habilidades de programação. Nesta versão, o sistema foi aprimorado, com a adição de novos recursos, como a exportação para Excel, edição e exclusão de dados.
 
@@ -13,7 +13,7 @@ Funcionalidades:
 - Exportação dos dados para um arquivo Excel.
 - Interface gráfica usando a biblioteca `Tkinter`.
 
-##  Pré-requisitos
+## Pré-requisitos
 
 Antes de começar, certifique-se de ter os seguintes pré-requisitos:
 
@@ -47,10 +47,11 @@ Execute o script Python para rodar a interface gráfica:
 python cadastro_funcionarios.py
 
 
-🛠️ Executando os testes
+## Executando os testes
+
 Este projeto não possui testes automatizados implementados. No entanto, você pode testar manualmente as funcionalidades de salvar, editar, excluir e exportar para Excel diretamente na interface gráfica.
 
-📦 Tecnologias usadas
+## Tecnologias usadas
 Este projeto foi criado utilizando as seguintes tecnologias:
 
 Python 3
@@ -61,10 +62,10 @@ Pandas (para manipulação de dados e exportação para Excel)
 
 Openpyxl (para salvar os dados como arquivo Excel)
 
-👷 Autores
-Natan Da Luz - Desenvolvedor - @archivesysl
+ Autores
+Natan Da Luz - Desenvolvedor.
 
-📄 Licença
+ Licença
 Este projeto está sob a licença MIT - consulte o arquivo LICENSE.md para mais detalhes.
 
 💭 FAQ - Perguntas frequentes
