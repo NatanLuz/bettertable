@@ -1,82 +1,70 @@
-# Cadastro de Funcionários - Versão 2
+Employee Registration - Version 2
+This repository contains version 2 of an employee registration system, initially created to practice programming skills. In this version, the system was improved with new features such as exporting to Excel, editing, and deleting data.
 
-Este repositório contém a versão 2 de um sistema de cadastro de funcionários, criado inicialmente para praticar habilidades de programação. Nesta versão, o sistema foi aprimorado, com a adição de novos recursos, como a exportação para Excel, edição e exclusão de dados.
+Introduction
+This system was developed to manage employee registration, including information such as name, position, fixed day off, hire date, and salary. It allows saving, editing, deleting, and exporting data to an Excel file.
 
-##  Introdução
+Features:
 
-Este sistema foi desenvolvido para gerenciar o cadastro de funcionários, incluindo informações como nome, cargo, folga fixa, data de entrada e salário. Ele permite salvar, editar, excluir e exportar os dados para um arquivo Excel.
+Employee registration with name, fixed day off, position, hire date, and salary.
 
-Funcionalidades:
-- Cadastro de funcionários com nome, folga fixa, cargo, data de entrada e salário.
-- Edição de dados de funcionários cadastrados.
-- Exclusão de registros.
-- Exportação dos dados para um arquivo Excel.
-- Interface gráfica usando a biblioteca `Tkinter`.
+Editing of registered employee data.
 
-## Pré-requisitos
+Deletion of records.
+Exporting data to an Excel file.
+Graphical user interface using the Tkinter library.
 
-Antes de começar, certifique-se de ter os seguintes pré-requisitos:
+Prerequisites
+Before starting, make sure you have the following prerequisites:
+Python 3.x: The project was developed using Python 3.
 
-- **Python 3.x**: O projeto foi desenvolvido utilizando Python 3.
-- **Bibliotecas**:
-  - `tkinter`: Para a criação da interface gráfica.
-  - `pandas`: Para manipulação de dados e exportação para Excel.
-  - `openpyxl`: Para salvar o arquivo Excel.
+Libraries:
+tkinter: For creating the graphical interface.
+pandas: For data manipulation and exporting to Excel.
+openpyxl: For saving the Excel file.
 
-Você pode instalar as bibliotecas necessárias com o seguinte comando:
+You can install the required libraries with the following command:
 
-```bash
 pip install pandas openpyxl
 
+Installation Guide
+Follow the steps below to run the project locally.
 
-🔨 Guia de instalação
-Siga os passos abaixo para rodar o projeto no seu ambiente local.
-
-Clone o repositório:
+Clone the repository:
 
 git clone https://github.com/archivesysl/bettertable.git
 
 
-Acesse o diretório do projeto:
+Navigate to the project directory:
 
 cd bettertable
 
-Abra o projeto no seu editor de código.
-Execute o script Python para rodar a interface gráfica:
+Open the project in your code editor.
+
+Run the Python script to launch the graphical interface:
 
 python cadastro_funcionarios.py
 
+Running Tests
+This project does not include automated tests. However, you can manually test saving, editing, deleting, and exporting functionalities directly in the graphical interface.
 
-## Executando os testes
-
-Este projeto não possui testes automatizados implementados. No entanto, você pode testar manualmente as funcionalidades de salvar, editar, excluir e exportar para Excel diretamente na interface gráfica.
-
-## Tecnologias usadas
-Este projeto foi criado utilizando as seguintes tecnologias:
+Technologies Used
+This project was created using the following technologies:
 
 Python 3
+Tkinter (for the graphical interface)
+Pandas (for data manipulation and Excel export)
+Openpyxl (to save data as Excel files)
 
-Tkinter (para a interface gráfica)
+ FAQ - Frequently Asked Questions
+How can I run this project on my computer?
+Follow the installation guide above to set up and run the project.
 
-Pandas (para manipulação de dados e exportação para Excel)
+How do I export the data?
+Click the "Export to Excel" button to generate an Excel file with the registered data.
 
-Openpyxl (para salvar os dados como arquivo Excel)
+How can I edit or delete records?
+Select the row you want to edit or delete, then use the "Edit Data" or "Delete Data" buttons.
 
- Autores
-Natan Da Luz - Desenvolvedor.
-
- Licença
-Este projeto está sob a licença MIT - consulte o arquivo LICENSE.md para mais detalhes.
-
-💭 FAQ - Perguntas frequentes
-1. Como posso rodar este projeto no meu computador?
-Siga o guia de instalação acima para configurar e executar o projeto.
-
-2. Como faço para exportar os dados?
-Clique no botão "Exportar para Excel" para gerar um arquivo Excel com os dados cadastrados.
-
-3. Como posso editar ou excluir registros?
-Selecione a linha que deseja editar ou excluir e use os botões "Editar Dados" ou "Excluir Dados".
-
-
-Meu Linkedin: https://www.linkedin.com/in/natan-da-luz-3156582a2/
+Author
+Natan Da Luz - Developer
