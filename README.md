@@ -1,5 +1,12 @@
 ## Employee Registration - Version 2
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
+[![Tkinter](https://img.shields.io/badge/Tkinter-FF6F61?style=flat&logo=python&logoColor=white)]()
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)]()
+[![OpenPyXL](https://img.shields.io/badge/OpenPyXL-000000?style=flat&logo=python&logoColor=white)]()
+
+![Employee Registration](https://i.imgur.com/qFp4BP3.png)
+
 This repository contains version 2 of an employee registration system, initially created to practice programming skills. In this version, the system was improved with new features such as exporting to Excel, editing, and deleting data.
 
 Introduction
