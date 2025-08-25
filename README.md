@@ -7,6 +7,7 @@
 
 ![Employee Registration](https://i.imgur.com/qFp4BP3.png)
 
+
 This repository contains version 2 of an employee registration system, initially created to practice programming skills. In this version, the system was improved with new features such as exporting to Excel, editing, and deleting data.
 
 Introduction
